@@ -190,6 +190,49 @@
         }
     }
 </style>
+<style>
+    .doviz-button {
+        position: relative;
+    }
+    .doviz-button span {
+        opacity: 0;
+        display: flex;
+        transform: translateY(100%);
+        transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+        -webkit-transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+    }
+    .doviz-button .text1 {
+        animation: slideUp 4s infinite;
+        position: absolute;
+    }
+    .doviz-button .text2 {
+        animation: slideUp 4s 2s infinite; /* 2 saniye gecikmeli başlat */
+        position: absolute;
+    }
+    @keyframes slideUp {
+        0% {
+            opacity: 0;
+            transform: translateY(100%);
+        }
+        10% {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        45% {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        55% {
+            opacity: 0;
+            transform: translateY(-100%);
+        }
+        100% {
+            opacity: 0;
+            transform: translateY(-100%);
+        }
+    }
+</style>
+
 
 
 <body>
