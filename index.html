@@ -609,7 +609,7 @@
         */
 
         is_element_load = setInterval(function(){
-            let e = document.querySelector('.normal.row a[site="stake"] .button');
+            let e = document.querySelector('.row a[site="stake"] .button');
             if (e) {
                 fetch("https://customers.garantibbva.com.tr/internet/digitalpublic/currency-convertor-public/v1/currency-convertor/calculate-price?&operation=0&price=1&currencySource=USD&currencyTarget=TL", {
                     "credentials": "include",
