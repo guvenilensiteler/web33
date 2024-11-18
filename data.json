@@ -4,6 +4,30 @@
     "logo": "",
     "sites": [
       {
+        "url": "https://bit.ly/ogexdark",
+        "desc": [
+          "BONUSU AL - 2.500₺ yap 500 ÇEK"
+        ],
+        "site": "darkbet",
+        "sort": null,
+        "color": "#ffc000",
+        "miktar": "₺250",
+        "promo_code": "DARKBET250",
+        "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogexforce",
+        "desc": [
+          "5$ YENİ ÜYELİK BONUSU"
+        ],
+        "site": "betforce",
+        "sort": null,
+        "color": "#886cff",
+        "miktar": "$5",
+        "promo_code_yok": "50$ YAP 10$ ÇEK",
+        "slider_img": ""
+      },
+      {
         "url": "https://stake1022.com/?c=stake14dolar",
         "desc": [
           "DÜNYANIN EN GÜVENİLİR SİTESİ"
@@ -104,8 +128,16 @@
         "sort": "3",
         "sites": [
           {
-            "site": "stake",
+            "site": "darkbet",
             "sort": "1"
+          },
+          {
+            "site": "betforce",
+            "sort": "2"
+          },
+          {
+            "site": "stake",
+            "sort": "3"
           }
         ]
       },
