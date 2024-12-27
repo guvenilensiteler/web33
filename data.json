@@ -51,6 +51,18 @@
         "promo_code": null,
         "promo_code_yok": "KAYIT OL 2.000₺ BONUS AL",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/VeMbqZQt",
+        "desc": [
+          "HERKESE 888₺ KAYIT BONUSU"
+        ],
+        "site": "betkom",
+        "sort": null,
+        "color": "#1fe0ff",
+        "miktar": "₺888",
+        "promo_code_yok": "KAYIT OL DENEME BONUSUNU AL",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -141,10 +153,13 @@
         "sort": "3",
         "sites": [
           {
-            "site": "mersobahis",
-            "sort": "0"
+            "site": "betkom",
+            "sort": "1"
           },
-
+          {
+            "site": "mersobahis",
+            "sort": "2"
+          },
           {
             "site": "stake",
             "sort": "3"
