@@ -55,13 +55,37 @@
       {
         "url": "https://cutt.ly/VeMbqZQt",
         "desc": [
-          "HERKESE 888₺ KAYIT BONUSU"
+          "%30 SINIRSIZ KAYIP BONUSU + HER YATIRIMA BONUS"
         ],
         "site": "betkom",
         "sort": null,
         "color": "#1fe0ff",
-        "miktar": "₺888",
-        "promo_code_yok": "KAYIT OL DENEME BONUSUNU AL",
+        "miktar": "500FS",
+        "promo_code_yok": "İLK YATIRIMA 5000 TL VEYA 5000 FS YATIRIM HEDİYESİ",
+        "slider_img": ""
+      },
+      {
+        "url": "https://partner.bahisabiaffiliates.com/imp/bahisabi/1156",
+        "desc": [
+          "100.000₺ %30 CASİNO HOŞ GELDİN"
+        ],
+        "site": "bahisabi",
+        "sort": null,
+        "color": "#f34624",
+        "miktar": "200FS",
+        "promo_code_yok": "200 FREESPIN DENEME BONUSU - %100 PRAGMATIC BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://partner.babilaffiliates.com/imp/babilonbet/1147",
+        "desc": [
+          "%10 LİMİTSİZ YATIRIM BONUSU"
+        ],
+        "site": "babilonbet",
+        "sort": null,
+        "color": "#00afe2",
+        "miktar": "200FS",
+        "promo_code_yok": "200 FREESPIN DENEME BONUSU - %100 PRAGMATİC BONUSU",
         "slider_img": ""
       }
     ],
@@ -157,12 +181,20 @@
             "sort": "1"
           },
           {
-            "site": "mersobahis",
+            "site": "bahisabi",
             "sort": "2"
           },
           {
-            "site": "stake",
+            "site": "babilonbet",
             "sort": "3"
+          },
+          {
+            "site": "mersobahis",
+            "sort": "4"
+          },
+          {
+            "site": "stake",
+            "sort": "5"
           }
         ]
       },
