@@ -136,6 +136,31 @@
         "miktar": "₺500",
         "promo_code": "OGEDAY500",
         "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogexmerit",
+        "desc": [
+          "100 FS DENEME BONUSU - %30 KAYIP BONUSU"
+        ],
+        "site": "meritbet",
+        "sort": null,
+        "color": "#b09061",
+        "miktar": "₺100",
+        "promo_code_yok": "GÜNLÜK 1.999.999 TL ÇEKİM",
+        "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogexamk",
+        "desc": [
+          "KAYIT OL 100₺ DENEME BONUSU AL"
+        ],
+        "site": "amkbet",
+        "sort": null,
+        "color": "#ffd202",
+        "miktar": "₺100",
+        "promo_code": null,
+        "promo_code_yok": "%30 KAYIP BONUSU",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -250,16 +275,24 @@
             "sort": "6"
           },
           {
-            "site": "galabet",
+            "site": "meritbet",
             "sort": "7"
           },
           {
-            "site": "matadorbet",
+            "site": "amkbet",
             "sort": "8"
           },
           {
-            "site": "stake",
+            "site": "galabet",
             "sort": "9"
+          },
+          {
+            "site": "matadorbet",
+            "sort": "10"
+          },
+          {
+            "site": "stake",
+            "sort": "11"
           }
         ]
       },
