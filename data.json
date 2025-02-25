@@ -40,7 +40,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://t2m.io/mersogeday",
+        "url": "https://t2m.io/mersoatkafasi",
         "desc": [
           "2.000₺ DENEME BONUSU"
         ],
@@ -161,6 +161,19 @@
         "promo_code": null,
         "promo_code_yok": "%30 KAYIP BONUSU",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ErroM7ye",
+        "desc": [
+          "ANINDA LİMİTSİZ ÇEKİM İMKANI!"
+        ],
+        "site": "betibas",
+        "sort": null,
+        "color": "#ffc000",
+        "miktar": "GİRİŞ YAP",
+        "promo_code": null,
+        "promo_code_yok": "GÜNLÜK %30 KAYIP BONUSU! - HAFTALIK %5 KAYIP BONUSU!",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -251,7 +264,11 @@
         "sort": "3",
         "sites": [
           {
-            "site": "betkom",
+            "site": "mersobahis",
+            "sort": "0"
+          },
+          {
+            "site": "betibas",
             "sort": "1"
           },
           {
@@ -263,7 +280,7 @@
             "sort": "3"
           },
           {
-            "site": "mersobahis",
+            "site": "betkom",
             "sort": "4"
           },
           {
