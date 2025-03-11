@@ -174,6 +174,19 @@
         "promo_code": null,
         "promo_code_yok": "GÜNLÜK %30 KAYIP BONUSU! - HAFTALIK %5 KAYIP BONUSU!",
         "slider_img": ""
+      },
+      {
+        "url": "https://primebahis.wiki/prime6",
+        "desc": [
+          "KAYIT OL 444 FREESPIN AL"
+        ],
+        "site": "primebahis",
+        "sort": null,
+        "color": "#1a98ff",
+        "miktar": "444FS",
+        "promo_code": null,
+        "promo_code_yok": "444 FREESPIN DENEME BONUSU",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -265,10 +278,12 @@
         "sites": [
           {
             "site": "mersobahis",
-            "sort": "0"
+            "sort": "1"
           },
-
-
+          {
+            "site": "primebahis",
+            "sort": "2"
+          },
 
           {
             "site": "betkanyon",
