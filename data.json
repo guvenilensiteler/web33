@@ -199,6 +199,19 @@
         "miktar": "₺250",
         "promo_code_yok": "HER GÜN 10.000TL KAYIP BONUSU!",
         "slider_img": ""
+      },
+      {
+        "url": "https://refpa694356.top/L?tag=d_4219184m_72759c_ogeday0325&site=4219184&ad=72759",
+        "desc": [
+          "GATES OF OLYMPUS'TA GEÇERLİ 400₺ KAYIT BONUSU"
+        ],
+        "site": "yohoho",
+        "sort": null,
+        "color": "#ff6b00",
+        "miktar": "₺400",
+        "promo_code": "OGEDAY",
+        "promo_code_ilavesi": true,
+        "slider_img": ""
       }
     ],
     "social": {
@@ -321,8 +334,12 @@
             "sort": "10"
           },
           {
-            "site": "stake",
+            "site": "yohoho",
             "sort": "11"
+          },
+          {
+            "site": "stake",
+            "sort": "12"
           }
         ]
       },
