@@ -212,6 +212,18 @@
         "promo_code": "OGEDAY",
         "promo_code_ilavesi": true,
         "slider_img": ""
+      },
+      {
+        "url": "https://www.zzztrack.com/click?key=275e636fb27d857f4ec5&uid=30tRd6iMGuR17NEkbarZAQhfI3J3",
+        "desc": [
+          "İLK YATIRIMA ÖZEL %100"
+        ],
+        "site": "misty",
+        "sort": null,
+        "color": "#ffe93f",
+        "miktar": "₺750",
+        "promo_code_yok": "HOŞGELDİN BONUSU | RTP ORANI YÜKSEK SİTE",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -305,10 +317,13 @@
             "site": "mersobahis",
             "sort": "1"
           },
-
+          {
+            "site": "misty",
+            "sort": "5"
+          },
           {
             "site": "stake",
-            "sort": "12"
+            "sort": "10"
           }
         ]
       },
