@@ -197,7 +197,7 @@
         "sort": null,
         "color": "#00aa41",
         "miktar": "₺250",
-        "promo_code_yok": "HER GÜN 10.000TL KAYIP BONUSU!",
+        "promo_code_yok": "HER GÜN 1.000TL KAYIP BONUSU!",
         "slider_img": ""
       },
       {
@@ -223,6 +223,18 @@
         "color": "#ffe93f",
         "miktar": "₺750",
         "promo_code_yok": "HOŞGELDİN BONUSU | RTP ORANI YÜKSEK SİTE",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/orsPX9O1",
+        "desc": [
+          "2.000₺ HOŞGELDİN BONUSU"
+        ],
+        "site": "kralbet",
+        "sort": null,
+        "color": "#ffc618",
+        "miktar": "GİRİŞ YAP",
+        "promo_code_yok": "400.000 TL VIP ÖDÜLÜ",
         "slider_img": ""
       }
     ],
@@ -319,11 +331,27 @@
           },
           {
             "site": "misty",
+            "sort": "2"
+          },
+          {
+            "site": "sekabet",
+            "sort": "3"
+          },
+          {
+            "site": "betkanyon",
+            "sort": "4"
+          },
+          {
+            "site": "kralbet",
             "sort": "5"
           },
           {
+            "site": "bahisal",
+            "sort": "6"
+          },
+          {
             "site": "stake",
-            "sort": "10"
+            "sort": "7"
           }
         ]
       },
