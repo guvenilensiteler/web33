@@ -248,6 +248,30 @@
         "miktar": "225 FS",
         "promo_code_yok": "+ BEDAVA 225 FREESPIN - BONUSU AL!",
         "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/2414374",
+        "desc": [
+          "2025 tl deneme bonusu"
+        ],
+        "site": "vaycasino",
+        "sort": null,
+        "color": "#ed312e",
+        "miktar": "₺2.025",
+        "promo_code_yok": "100 milyon tl çekim garantisi",
+        "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/2414376",
+        "desc": [
+          "2222 FREESPIN"
+        ],
+        "site": "sheratonbet",
+        "sort": null,
+        "color": "#ecc500",
+        "miktar": "2222 FS",
+        "promo_code_yok": "99 ÜLKEDE OTEL GÜVENCESİ",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -346,28 +370,32 @@
             "sort": "2"
           },
           {
-            "site": "rokubet",
+            "site": "vaycasino",
             "sort": "3"
           },
           {
-            "site": "sekabet",
+            "site": "sheratonbet",
             "sort": "4"
           },
           {
-            "site": "betkanyon",
+            "site": "rokubet",
             "sort": "5"
           },
           {
-            "site": "kralbet",
+            "site": "sekabet",
             "sort": "6"
           },
           {
-            "site": "bahisal",
+            "site": "betkanyon",
             "sort": "7"
           },
           {
-            "site": "stake",
+            "site": "kralbet",
             "sort": "8"
+          },
+          {
+            "site": "bahisal",
+            "sort": "9"
           }
         ]
       },
