@@ -101,15 +101,15 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/veoT5cGq",
+        "url": "https://cutt.ly/erxQNfAr",
         "desc": [
-          "CANLI DESTEĞE BAĞLAN BONUSUNU AL!"
+          "⚡\uFE0F500 TL CEVRIMSIZ DENEME BONUSU"
         ],
         "site": "matadorbet",
         "sort": null,
         "color": "#fb0009",
         "miktar": "₺500",
-        "promo_code2": "%200 HOŞ GELDİN BONUSU",
+        "promo_code_yok": "%200 HOSGELDİN BONUSU - SINIRSIZ CEKIM İMKANI",
         "slider_img": ""
       },
       {
@@ -382,20 +382,24 @@
             "sort": "5"
           },
           {
-            "site": "sekabet",
+            "site": "matadorbet",
             "sort": "6"
           },
           {
-            "site": "betkanyon",
+            "site": "sekabet",
             "sort": "7"
           },
           {
-            "site": "kralbet",
+            "site": "betkanyon",
             "sort": "8"
           },
           {
-            "site": "bahisal",
+            "site": "kralbet",
             "sort": "9"
+          },
+          {
+            "site": "bahisal",
+            "sort": "10"
           }
         ]
       },
