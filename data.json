@@ -366,10 +366,6 @@
             "sort": "1"
           },
           {
-            "site": "misty",
-            "sort": "2"
-          },
-          {
             "site": "rokubet",
             "sort": "3"
           },
@@ -386,20 +382,8 @@
             "sort": "6"
           },
           {
-            "site": "sekabet",
+            "site": "misty",
             "sort": "7"
-          },
-          {
-            "site": "betkanyon",
-            "sort": "8"
-          },
-          {
-            "site": "kralbet",
-            "sort": "9"
-          },
-          {
-            "site": "bahisal",
-            "sort": "10"
           }
         ]
       },
