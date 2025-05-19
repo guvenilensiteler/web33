@@ -176,16 +176,16 @@
         "slider_img": ""
       },
       {
-        "url": "https://primebahis.wiki/prime6",
+        "url": "https://primebahis1.wiki/MgDpdie",
         "desc": [
-          "KAYIT OL 444 FREESPIN AL"
+          "444FS DENEME BONUSU"
         ],
         "site": "primebahis",
         "sort": null,
         "color": "#1a98ff",
         "miktar": "444FS",
         "promo_code": null,
-        "promo_code_yok": "444 FREESPIN DENEME BONUSU",
+        "promo_code_yok": "%100 İADE BONUSU | ERTESİ GÜN FREESPİNLERİ",
         "slider_img": ""
       },
       {
@@ -367,6 +367,10 @@
           },
           {
             "site": "rokubet",
+            "sort": "2"
+          },
+          {
+            "site": "primebahis",
             "sort": "3"
           },
           {
@@ -384,6 +388,22 @@
           {
             "site": "misty",
             "sort": "7"
+          },
+          {
+            "site": "sekabet",
+            "sort": "8"
+          },
+          {
+            "site": "betkanyon",
+            "sort": "9"
+          },
+          {
+            "site": "kralbet",
+            "sort": "10"
+          },
+          {
+            "site": "bahisal",
+            "sort": "11"
           }
         ]
       },
