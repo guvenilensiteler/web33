@@ -233,6 +233,12 @@
     }
 </style>
 
+<style>
+    a[site="mersobahis"] .left img {
+        transform: scale(1.24);
+    }
+</style>
+
 
 
 <body>
@@ -550,7 +556,7 @@
         },
         created(){
             this.loading = true;
-            axios.get('https://s.guvenlisite.com/data.json?v=0.0.26')
+            axios.get('https://s.guvenlisite.com/data.json?v=0.0.27')
                 .then((response) => {
                     this.client = response.data.html
                     this.king = _.find(this.client.categories, ['id', 1710467155101]);
