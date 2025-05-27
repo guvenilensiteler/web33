@@ -363,6 +363,10 @@
         "sites": [
           {
             "site": "mersobahis",
+            "sort": "0"
+          },
+          {
+            "site": "rokubet",
             "sort": "1"
           },
           {
@@ -378,32 +382,12 @@
             "sort": "4"
           },
           {
-            "site": "rokubet",
-            "sort": "5"
-          },
-          {
             "site": "matadorbet",
             "sort": "6"
           },
           {
             "site": "misty",
             "sort": "7"
-          },
-          {
-            "site": "sekabet",
-            "sort": "8"
-          },
-          {
-            "site": "betkanyon",
-            "sort": "9"
-          },
-          {
-            "site": "kralbet",
-            "sort": "10"
-          },
-          {
-            "site": "bahisal",
-            "sort": "11"
           }
         ]
       },
