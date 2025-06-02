@@ -399,12 +399,16 @@
             "sort": "5"
           },
           {
-            "site": "misty",
+            "site": "betorspin",
             "sort": "6"
           },
           {
-            "site": "matadorbet",
+            "site": "misty",
             "sort": "7"
+          },
+          {
+            "site": "matadorbet",
+            "sort": "8"
           }
         ]
       },
