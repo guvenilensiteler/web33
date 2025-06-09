@@ -297,6 +297,18 @@
         "miktar": "₺500",
         "promo_code_yok": "İlk Yatırıma Çifte Şans , Vip Avantajları",
         "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/4kzl5P3",
+        "desc": [
+          "Marsbahis demek BANKA demek"
+        ],
+        "site": "marsbahis",
+        "sort": null,
+        "color": "#e12629",
+        "miktar": "₺500",
+        "promo_code_yok": "Kripto ile günlük çekim limiti 100 Milyon TL!'",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -419,7 +431,7 @@
             "sort": "7"
           },
           {
-            "site": "matadorbet",
+            "site": "marsbahis",
             "sort": "8"
           }
         ]
