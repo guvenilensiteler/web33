@@ -309,6 +309,18 @@
         "miktar": "₺500",
         "promo_code_yok": "Kripto ile günlük çekim limiti 100 Milyon TL!'",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/8rQKiL9w",
+        "desc": [
+          "700₺ deneme bonusu SLOTİN"
+        ],
+        "site": "slotin",
+        "sort": null,
+        "color": "#f49d0d",
+        "miktar": "₺700",
+        "promo_code_yok": "",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -403,7 +415,7 @@
             "sort": "0"
           },
           {
-            "site": "misty",
+            "site": "slotin",
             "sort": "1"
           },
           {
@@ -415,24 +427,28 @@
             "sort": "3"
           },
           {
-            "site": "sheratonbet",
+            "site": "misty",
             "sort": "4"
           },
           {
-            "site": "vaycasino",
+            "site": "sheratonbet",
             "sort": "5"
           },
           {
-            "site": "betorspin",
+            "site": "vaycasino",
             "sort": "6"
           },
           {
-            "site": "marsbahis",
+            "site": "betorspin",
             "sort": "7"
           },
           {
-            "site": "rokubet",
+            "site": "marsbahis",
             "sort": "8"
+          },
+          {
+            "site": "rokubet",
+            "sort": "9"
           }
         ]
       },
