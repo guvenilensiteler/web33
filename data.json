@@ -321,6 +321,18 @@
         "miktar": "₺700",
         "promo_code_yok": "",
         "slider_img": ""
+      },
+      {
+        "url": "https://click.clickslotra.pro/NfI0Xz6r",
+        "desc": [
+          "NE ÇEKERSEN ÇEK 2 KATINI ÖDÜYORUZ!"
+        ],
+        "site": "slotra",
+        "sort": null,
+        "color": "#fff205",
+        "miktar": "2X",
+        "promo_code_yok": "",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -435,20 +447,24 @@
             "sort": "5"
           },
           {
-            "site": "vaycasino",
+            "site": "slotra",
             "sort": "6"
           },
           {
-            "site": "betorspin",
+            "site": "vaycasino",
             "sort": "7"
           },
           {
-            "site": "marsbahis",
+            "site": "betorspin",
             "sort": "8"
           },
           {
-            "site": "rokubet",
+            "site": "marsbahis",
             "sort": "9"
+          },
+          {
+            "site": "rokubet",
+            "sort": "10"
           }
         ]
       },
