@@ -333,6 +333,42 @@
         "miktar": "2X",
         "promo_code_yok": "",
         "slider_img": ""
+      },
+      {
+        "url": "https://go.aff.intr.live/wet95iyh",
+        "desc": [
+          "İnterbahis'te yeni üyelere özel"
+        ],
+        "site": "interbahis",
+        "sort": null,
+        "color": "#d40c0e",
+        "miktar": "100 FS",
+        "promo_code_yok": "100freebet / 100freespin",
+        "slider_img": ""
+      },
+      {
+        "url": "https://sznrd.xyz/afflink",
+        "desc": [
+          "250₺ DENEME BONUSU"
+        ],
+        "site": "sezonbahis",
+        "sort": null,
+        "color": "#be9337",
+        "miktar": "₺250",
+        "promo_code_yok": "%333 HOŞ GELDİN - %100 DİSCOUNT",
+        "slider_img": ""
+      },
+      {
+        "url": "https://is.gd/irtpLj",
+        "desc": [
+          "3000₺ HOSGELDİN BONUS"
+        ],
+        "site": "gallerbahis",
+        "sort": null,
+        "color": "#e2b725",
+        "miktar": "₺3.000",
+        "promo_code_yok": "YÜKSEK KAZANC ORANI",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -424,41 +460,51 @@
         "sites": [
           {
             "site": "mersobahis",
-            "sort": "0"
-          },
-          {
-            "site": "slotin",
             "sort": "1"
           },
           {
-            "site": "grandpashabet",
+            "site": "sezonbahis",
             "sort": "2"
           },
           {
-            "site": "primebahis",
+            "site": "slotra",
             "sort": "3"
           },
           {
-            "site": "misty",
+            "site": "interbahis",
             "sort": "4"
           },
-
           {
-            "site": "slotra",
+            "site": "gallerbahis",
+            "sort": "5"
+          },
+          {
+            "site": "primebahis",
             "sort": "6"
           },
-
           {
-            "site": "betorspin",
+            "site": "slotin",
+            "sort": "7"
+          },
+          {
+            "site": "grandpashabet",
             "sort": "8"
           },
           {
-            "site": "marsbahis",
+            "site": "misty",
             "sort": "9"
           },
           {
-            "site": "rokubet",
+            "site": "betorspin",
             "sort": "10"
+          },
+          {
+            "site": "marsbahis",
+            "sort": "11"
+          },
+          {
+            "site": "rokubet",
+            "sort": "12"
           }
         ]
       },
