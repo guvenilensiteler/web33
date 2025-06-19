@@ -460,6 +460,10 @@
         "sites": [
           {
             "site": "mersobahis",
+            "sort": "0"
+          },
+          {
+            "site": "slotin",
             "sort": "1"
           },
           {
@@ -482,10 +486,7 @@
             "site": "primebahis",
             "sort": "6"
           },
-          {
-            "site": "slotin",
-            "sort": "7"
-          },
+
           {
             "site": "grandpashabet",
             "sort": "8"
